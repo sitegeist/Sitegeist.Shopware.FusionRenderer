@@ -1,0 +1,14 @@
+{
+  "name": "sitegeist/shopware-fusion-renderer",
+  "type": "shopware-plugin",
+  "description": "Sitegeist Shopware Fusion Renderer",
+  "license": "GPL-3.0-or-later",
+  "extra": {
+    "installer-name": "SitegeistShopwareFusionRenderer"
+  },
+  "require": {
+    "composer/installers": "~1.0",
+    "sitegeist/fusion-standalone": "*",
+    "sitegeist/eel-standalone": "*"
+  }
+}
